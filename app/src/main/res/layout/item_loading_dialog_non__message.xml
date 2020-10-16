@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.tuyenmonkey.mkloader.MKLoader
+    android:layout_height="@dimen/margin50"
+    android:layout_width="@dimen/margin50"
+    android:layout_gravity="center"
+    app:mk_color="@color/text__white"
+    style="@style/DialogLight"
+    app:mk_type="Whirlpool"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+</com.tuyenmonkey.mkloader.MKLoader>

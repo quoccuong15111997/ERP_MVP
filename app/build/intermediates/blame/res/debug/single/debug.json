@@ -1,0 +1,182 @@
+[
+    {
+        "merged": "C:\\Users\\PC\\AndroidStudioProjects\\ERP\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bg_rounded_btn_login.xml.flat",
+        "source": "C:\\Users\\PC\\AndroidStudioProjects\\ERP\\app\\src\\main\\res\\drawable\\bg_rounded_btn_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC\\AndroidStudioProjects\\ERP\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\PC\\AndroidStudioProjects\\ERP\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC\\AndroidStudioProjects\\ERP\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_loading_dialog.xml.flat",
+        "source": "C:\\Users\\PC\\AndroidStudioProjects\\ERP\\app\\src\\main\\res\\layout\\item_loading_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC\\AndroidStudioProjects\\ERP\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_baseline_location_on_24.xml.flat",
+        "source": "C:\\Users\\PC\\AndroidStudioProjects\\ERP\\app\\src\\main\\res\\drawable\\ic_baseline_location_on_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC\\AndroidStudioProjects\\ERP\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\PC\\AndroidStudioProjects\\ERP\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\PC\\AndroidStudioProjects\\ERP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_btn_rounded_green.xml.flat",
+        "source": "C:\\Users\\PC\\AndroidStudioProjects\\ERP\\app\\src\\main\\res\\drawable-v24\\btn_rounded_green.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC\\AndroidStudioProjects\\ERP\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\PC\\AndroidStudioProjects\\ERP\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\PC\\AndroidStudioProjects\\ERP\\app\\build\\intermediates\\res\\merged\\debug\\xml_file_paths.xml.flat",
+        "source": "C:\\Users\\PC\\AndroidStudioProjects\\ERP\\app\\src\\main\\res\\xml\\file_paths.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC\\AndroidStudioProjects\\ERP\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_baseline_done_24.xml.flat",
+        "source": "C:\\Users\\PC\\AndroidStudioProjects\\ERP\\app\\src\\main\\res\\drawable\\ic_baseline_done_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC\\AndroidStudioProjects\\ERP\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bg_rounded_dialog.xml.flat",
+        "source": "C:\\Users\\PC\\AndroidStudioProjects\\ERP\\app\\src\\main\\res\\drawable\\bg_rounded_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC\\AndroidStudioProjects\\ERP\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_baseline_arrow_back_24.xml.flat",
+        "source": "C:\\Users\\PC\\AndroidStudioProjects\\ERP\\app\\src\\main\\res\\drawable\\ic_baseline_arrow_back_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC\\AndroidStudioProjects\\ERP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_splashbackground.xml.flat",
+        "source": "C:\\Users\\PC\\AndroidStudioProjects\\ERP\\app\\src\\main\\res\\drawable-v24\\splashbackground.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC\\AndroidStudioProjects\\ERP\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_select_company.xml.flat",
+        "source": "C:\\Users\\PC\\AndroidStudioProjects\\ERP\\app\\src\\main\\res\\layout\\activity_select_company.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC\\AndroidStudioProjects\\ERP\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_location_select.xml.flat",
+        "source": "C:\\Users\\PC\\AndroidStudioProjects\\ERP\\app\\src\\main\\res\\layout\\item_location_select.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC\\AndroidStudioProjects\\ERP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_btn_rounded_red.xml.flat",
+        "source": "C:\\Users\\PC\\AndroidStudioProjects\\ERP\\app\\src\\main\\res\\drawable-v24\\btn_rounded_red.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC\\AndroidStudioProjects\\ERP\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_loading.xml.flat",
+        "source": "C:\\Users\\PC\\AndroidStudioProjects\\ERP\\app\\src\\main\\res\\layout\\activity_loading.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC\\AndroidStudioProjects\\ERP\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\PC\\AndroidStudioProjects\\ERP\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\PC\\AndroidStudioProjects\\ERP\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\PC\\AndroidStudioProjects\\ERP\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\PC\\AndroidStudioProjects\\ERP\\app\\build\\intermediates\\res\\merged\\debug\\drawable_btn_rounded_green.xml.flat",
+        "source": "C:\\Users\\PC\\AndroidStudioProjects\\ERP\\app\\src\\main\\res\\drawable\\btn_rounded_green.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC\\AndroidStudioProjects\\ERP\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_login.xml.flat",
+        "source": "C:\\Users\\PC\\AndroidStudioProjects\\ERP\\app\\src\\main\\res\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC\\AndroidStudioProjects\\ERP\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_baseline_error_24.xml.flat",
+        "source": "C:\\Users\\PC\\AndroidStudioProjects\\ERP\\app\\src\\main\\res\\drawable\\ic_baseline_error_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC\\AndroidStudioProjects\\ERP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\PC\\AndroidStudioProjects\\ERP\\app\\src\\main\\res\\drawable-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC\\AndroidStudioProjects\\ERP\\app\\build\\intermediates\\res\\merged\\debug\\layout_custom_toolbar.xml.flat",
+        "source": "C:\\Users\\PC\\AndroidStudioProjects\\ERP\\app\\src\\main\\res\\layout\\custom_toolbar.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC\\AndroidStudioProjects\\ERP\\app\\build\\intermediates\\res\\merged\\debug\\xml_network_security_config.xml.flat",
+        "source": "C:\\Users\\PC\\AndroidStudioProjects\\ERP\\app\\src\\main\\res\\xml\\network_security_config.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC\\AndroidStudioProjects\\ERP\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\PC\\AndroidStudioProjects\\ERP\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\PC\\AndroidStudioProjects\\ERP\\app\\build\\intermediates\\res\\merged\\debug\\xml_provider_paths.xml.flat",
+        "source": "C:\\Users\\PC\\AndroidStudioProjects\\ERP\\app\\src\\main\\res\\xml\\provider_paths.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC\\AndroidStudioProjects\\ERP\\app\\build\\intermediates\\res\\merged\\debug\\drawable_custom_button_alert.xml.flat",
+        "source": "C:\\Users\\PC\\AndroidStudioProjects\\ERP\\app\\src\\main\\res\\drawable\\custom_button_alert.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC\\AndroidStudioProjects\\ERP\\app\\build\\intermediates\\res\\merged\\debug\\layout_dialog_info.xml.flat",
+        "source": "C:\\Users\\PC\\AndroidStudioProjects\\ERP\\app\\src\\main\\res\\layout\\dialog_info.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC\\AndroidStudioProjects\\ERP\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\PC\\AndroidStudioProjects\\ERP\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\PC\\AndroidStudioProjects\\ERP\\app\\build\\intermediates\\res\\merged\\debug\\layout_dialog_top_home.xml.flat",
+        "source": "C:\\Users\\PC\\AndroidStudioProjects\\ERP\\app\\src\\main\\res\\layout\\dialog_top_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC\\AndroidStudioProjects\\ERP\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_background_login.png.flat",
+        "source": "C:\\Users\\PC\\AndroidStudioProjects\\ERP\\app\\src\\main\\res\\mipmap-xhdpi\\background_login.png"
+    },
+    {
+        "merged": "C:\\Users\\PC\\AndroidStudioProjects\\ERP\\app\\build\\intermediates\\res\\merged\\debug\\layout_dialog_confirm.xml.flat",
+        "source": "C:\\Users\\PC\\AndroidStudioProjects\\ERP\\app\\src\\main\\res\\layout\\dialog_confirm.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC\\AndroidStudioProjects\\ERP\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\PC\\AndroidStudioProjects\\ERP\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\PC\\AndroidStudioProjects\\ERP\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_company_select.xml.flat",
+        "source": "C:\\Users\\PC\\AndroidStudioProjects\\ERP\\app\\src\\main\\res\\layout\\item_company_select.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC\\AndroidStudioProjects\\ERP\\app\\build\\intermediates\\res\\merged\\debug\\drawable_custom_button.xml.flat",
+        "source": "C:\\Users\\PC\\AndroidStudioProjects\\ERP\\app\\src\\main\\res\\drawable\\custom_button.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC\\AndroidStudioProjects\\ERP\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\PC\\AndroidStudioProjects\\ERP\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC\\AndroidStudioProjects\\ERP\\app\\build\\intermediates\\res\\merged\\debug\\layout_dialog_warning.xml.flat",
+        "source": "C:\\Users\\PC\\AndroidStudioProjects\\ERP\\app\\src\\main\\res\\layout\\dialog_warning.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC\\AndroidStudioProjects\\ERP\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_logo_ems.png.flat",
+        "source": "C:\\Users\\PC\\AndroidStudioProjects\\ERP\\app\\src\\main\\res\\mipmap-xhdpi\\logo_ems.png"
+    },
+    {
+        "merged": "C:\\Users\\PC\\AndroidStudioProjects\\ERP\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_baseline_expand_more_24.xml.flat",
+        "source": "C:\\Users\\PC\\AndroidStudioProjects\\ERP\\app\\src\\main\\res\\drawable\\ic_baseline_expand_more_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC\\AndroidStudioProjects\\ERP\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\PC\\AndroidStudioProjects\\ERP\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\PC\\AndroidStudioProjects\\ERP\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\PC\\AndroidStudioProjects\\ERP\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\PC\\AndroidStudioProjects\\ERP\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\PC\\AndroidStudioProjects\\ERP\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC\\AndroidStudioProjects\\ERP\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\PC\\AndroidStudioProjects\\ERP\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\PC\\AndroidStudioProjects\\ERP\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\PC\\AndroidStudioProjects\\ERP\\app\\src\\main\\res\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC\\AndroidStudioProjects\\ERP\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_loading_dialog_non__message.xml.flat",
+        "source": "C:\\Users\\PC\\AndroidStudioProjects\\ERP\\app\\src\\main\\res\\layout\\item_loading_dialog_non__message.xml"
+    }
+]
