@@ -6,15 +6,13 @@ import android.content.Intent
 import android.os.Handler
 import android.view.Gravity
 import android.view.WindowManager
-import androidx.core.content.IntentCompat
 import androidx.recyclerview.widget.LinearLayoutManager
 import androidx.recyclerview.widget.RecyclerView
-import com.firstems.erp.MainActivity
+import com.firstems.erp.ui.activity.MainActivity
 import com.firstems.erp.R
 import com.firstems.erp.network.RestApi
 import com.firstems.erp.network.RestClientJava
 import com.firstems.erp.network.model.response.user.Company
-import com.firstems.erp.network.model.response.user.Location
 import com.firstems.erp.network.model.response.user.UserLoginApiResponse
 import com.firstems.erp.presenter.SelectCompanyActivityPresenter
 import com.firstems.erp.sharedpreferences.SharedPreferencesManager
@@ -23,7 +21,6 @@ import com.google.gson.JsonObject
 import io.reactivex.android.schedulers.AndroidSchedulers
 import io.reactivex.functions.Consumer
 import io.reactivex.schedulers.Schedulers
-import kotlinx.coroutines.internal.artificialFrame
 
 class SelectCompanyActivityPresenterImpl(
     context: Context?,
@@ -95,7 +92,7 @@ class SelectCompanyActivityPresenterImpl(
     }
 
     override fun navigateToMainActivity() {
-        var intent = Intent(context,MainActivity::class.java)
+        var intent = Intent(context, MainActivity::class.java)
         context!!.startActivity(intent)
     }
     override fun saveUserData(

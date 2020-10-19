@@ -3,12 +3,11 @@ package com.firstems.erp.presenter.impl
 import android.content.Context
 import android.content.Intent
 import android.os.Handler
-import com.firstems.erp.MainActivity
+import com.firstems.erp.ui.activity.MainActivity
 import com.firstems.erp.network.RestApi
 import com.firstems.erp.network.RestClientJava
 import com.firstems.erp.network.model.response.user.UserLoginApiResponse
 import com.firstems.erp.presenter.LoadingActivityPresenter
-import com.firstems.erp.presenter.LoginActivityPresenter
 import com.firstems.erp.sharedpreferences.SharedPreferencesManager
 import com.firstems.erp.ui.activity.LoginActivity
 import com.google.gson.JsonObject

@@ -45,7 +45,7 @@ class SelectCompanyActivity : BaseActivity(), SelectCompanyActivityPresenter.Vie
         persenter = SelectCompanyActivityPresenterImpl(this, this);
         persenter.init()
         var userLoginApiResponse : UserLoginApiResponse =
-            intent.getSerializableExtra(Constant().NAME_PUT_USER_LOGIN) as UserLoginApiResponse;
+            intent.getSerializableExtra(Constant.NAME_PUT_USER_LOGIN) as UserLoginApiResponse;
         if (userLoginApiResponse!=null){
             persenter.invoke(userLoginApiResponse.returnData.cOMPLIST)
         }

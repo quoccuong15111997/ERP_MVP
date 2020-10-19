@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/navDashboard"
+        android:icon="@drawable/ic_baseline_dashboard_24"
+        android:title="Tổng quan">
+    </item>
+    <item
+        android:id="@+id/navSignature"
+        android:icon="@drawable/ic_baseline_create_24"
+        android:title="Trình ký">
+    </item>
+    <item
+        android:id="@+id/navApproved"
+        android:icon="@drawable/ic_baseline_library_add_check_24"
+        android:title="Phê duyệt">
+    </item>
+    <item
+        android:id="@+id/navDocument"
+        android:icon="@drawable/ic_baseline_folder_24"
+        android:title="Tài liệu">
+    </item>
+    <item
+        android:id="@+id/navMore"
+        android:icon="@drawable/ic_baseline_more_horiz_24"
+        android:title="Thêm">
+    </item>
+</menu>

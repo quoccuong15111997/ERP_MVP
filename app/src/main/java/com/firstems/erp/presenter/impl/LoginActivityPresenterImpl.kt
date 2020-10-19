@@ -3,7 +3,7 @@ package com.firstems.erp.presenter.impl
 import android.content.Context
 import android.content.Intent
 import android.os.Handler
-import com.firstems.erp.MainActivity
+import com.firstems.erp.ui.activity.MainActivity
 import com.firstems.erp.common.Constant
 import com.firstems.erp.network.RestApi
 import com.firstems.erp.network.RestClientJava
@@ -15,7 +15,6 @@ import com.google.gson.JsonObject
 import io.reactivex.android.schedulers.AndroidSchedulers
 import io.reactivex.functions.Consumer
 import io.reactivex.schedulers.Schedulers
-import kotlinx.android.synthetic.main.activity_login.*
 
 open class LoginActivityPresenterImpl(context: Context?, view: LoginActivityPresenter.View?) :
     LoginActivityPresenter {
@@ -124,7 +123,7 @@ open class LoginActivityPresenterImpl(context: Context?, view: LoginActivityPres
 
     override fun navigateToSelectCompanyActivity(userLoginApiResponse: UserLoginApiResponse) {
         var intent = Intent(context, SelectCompanyActivity::class.java)
-        intent.putExtra(Constant().NAME_PUT_USER_LOGIN, userLoginApiResponse)
+        intent.putExtra(Constant.NAME_PUT_USER_LOGIN, userLoginApiResponse)
         context!!.startActivity(intent)
     }
 

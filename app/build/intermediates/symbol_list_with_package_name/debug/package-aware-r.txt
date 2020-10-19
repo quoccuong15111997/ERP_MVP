@@ -29,6 +29,13 @@ anim design_snackbar_in
 anim design_snackbar_out
 anim fade_in_center
 anim fade_out_center
+anim fragment_close_enter
+anim fragment_close_exit
+anim fragment_fade_enter
+anim fragment_fade_exit
+anim fragment_fast_out_extra_slow_in
+anim fragment_open_enter
+anim fragment_open_exit
 anim mtrl_bottom_sheet_slide_in
 anim mtrl_bottom_sheet_slide_out
 anim mtrl_card_lowers_interpolator
@@ -2403,10 +2410,15 @@ drawable design_password_eye
 drawable design_snackbar_background
 drawable gallery_album_overlay
 drawable ic_baseline_arrow_back_24
+drawable ic_baseline_create_24
+drawable ic_baseline_dashboard_24
 drawable ic_baseline_done_24
 drawable ic_baseline_error_24
 drawable ic_baseline_expand_more_24
+drawable ic_baseline_folder_24
+drawable ic_baseline_library_add_check_24
 drawable ic_baseline_location_on_24
+drawable ic_baseline_more_horiz_24
 drawable ic_camera
 drawable ic_clock_black_24dp
 drawable ic_deselect_all
@@ -2668,6 +2680,7 @@ id dropdown_menu
 id easeIn
 id easeInOut
 id easeOut
+id editTextTextPersonName
 id edit_query
 id edtPassword
 id edtUserName
@@ -2698,6 +2711,7 @@ id floating
 id folder_count
 id folder_title
 id forever
+id fragment_container_view_tag
 id ghost_view
 id ghost_view_holder
 id glide_custom_view_target_tag
@@ -2837,6 +2851,12 @@ id mtrl_picker_text_input_range_start
 id mtrl_picker_title_text
 id multiply
 id name
+id navApproved
+id navDashboard
+id navDocument
+id navMore
+id navSignature
+id nav_main
 id navigation_header_container
 id never
 id noScroll
@@ -2967,6 +2987,10 @@ id textSpacerNoButtons
 id textSpacerNoTitle
 id textStart
 id textTop
+id textView
+id textView2
+id textView3
+id textView4
 id text_input_end_icon
 id text_input_start_icon
 id textinput_counter
@@ -3011,6 +3035,7 @@ id video_icon
 id viewPager
 id view_offset_helper
 id visible
+id visible_removing_fragment_view_tag
 id width
 id withText
 id withinBounds
@@ -3086,9 +3111,11 @@ layout activity_login
 layout activity_main
 layout activity_media_details
 layout activity_select_company
+layout approved_fragment
 layout base_container
 layout custom_dialog
 layout custom_toolbar
+layout dashboard_fragment
 layout design_bottom_navigation_item
 layout design_bottom_sheet_dialog
 layout design_layout_snackbar
@@ -3111,6 +3138,8 @@ layout dialog_list
 layout dialog_top_home
 layout dialog_view
 layout dialog_warning
+layout document_fragment
+layout document_list_fragment
 layout fragment_doc_picker
 layout fragment_media_folder_picker
 layout fragment_media_picker
@@ -3151,6 +3180,7 @@ layout mdtp_time_picker_dialog_v2
 layout mdtp_time_title_view
 layout mdtp_time_title_view_v2
 layout mdtp_year_label_text_view
+layout more_fragment
 layout mtrl_alert_dialog
 layout mtrl_alert_dialog_actions
 layout mtrl_alert_dialog_title
@@ -3197,6 +3227,7 @@ layout notification_template_part_time
 layout select_dialog_item_material
 layout select_dialog_multichoice_material
 layout select_dialog_singlechoice_material
+layout signature_fragment
 layout support_simple_spinner_dropdown_item
 layout test_action_chip
 layout test_chip_zero_corner_radius
@@ -3213,6 +3244,7 @@ layout text_view_with_line_height_from_style
 layout text_view_with_theme_line_height
 layout text_view_without_line_height
 menu doc_picker_menu
+menu main_menu
 menu media_detail_menu
 menu picker_menu
 menu select_menu
@@ -4237,6 +4269,8 @@ styleable FlowLayout itemSpacing lineSpacing
 styleable FontFamily fontProviderAuthority fontProviderCerts fontProviderFetchStrategy fontProviderFetchTimeout fontProviderPackage fontProviderQuery
 styleable FontFamilyFont android_font android_fontWeight android_fontStyle android_ttcIndex android_fontVariationSettings font fontStyle fontVariationSettings fontWeight ttcIndex
 styleable ForegroundLinearLayout android_foreground android_foregroundGravity foregroundInsidePadding
+styleable Fragment android_name android_id android_tag
+styleable FragmentContainerView android_name android_tag
 styleable GradientColor android_startColor android_endColor android_type android_centerX android_centerY android_gradientRadius android_tileMode android_centerColor android_startX android_startY android_endX android_endY
 styleable GradientColorItem android_color android_offset
 styleable GridLayout alignmentMode columnCount columnOrderPreserved orientation rowCount rowOrderPreserved useDefaultMargins

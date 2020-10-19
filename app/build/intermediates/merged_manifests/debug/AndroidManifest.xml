@@ -43,7 +43,7 @@
             android:name="com.firstems.erp.ui.activity.LoginActivity"
             android:theme="@style/BaseTheme" >
         </activity>
-        <activity android:name="com.firstems.erp.MainActivity" />
+        <activity android:name="com.firstems.erp.ui.activity.MainActivity" />
         <activity
             android:name="pub.devrel.easypermissions.AppSettingsDialogHolderActivity"
             android:exported="false"
@@ -65,6 +65,11 @@
                 android:name="android.support.FILE_PROVIDER_PATHS"
                 android:resource="@xml/provider_paths" />
         </provider>
+        <provider
+            android:name="androidx.lifecycle.ProcessLifecycleOwnerInitializer"
+            android:authorities="com.firstems.erp.lifecycle-process"
+            android:exported="false"
+            android:multiprocess="true" />
     </application>
 
 </manifest>
